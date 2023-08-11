@@ -8,12 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I'm Zhu Zixuan,a third-year undergraduate student from [College of Electrical Engineering](http://ee.zju.edu.cn/) of [Zhejiang University](https://www.zju.edu.cn/).
-And I am very fortunate to be instructed by [Prof.Shi Tingna](https://person.zju.edu.cn/0018202). 
+Welcome to my homepage!
 
-Here not only could you find many courses of EE, but also some of my recent research and life.
+My name is Zhu Zixuan, a third-year undergraduate student from [College of Electrical Engineering](http://ee.zju.edu.cn/) of [Zhejiang University](https://www.zju.edu.cn/).
 
-Please feel free to take my jobs as reference to your academic life.
+I am very fortunate to be instructed by [Prof.Shi Tingna](https://person.zju.edu.cn/0018202). 
+
+Here you may find many courses of EE, and my recent research and posts of my life.
+
+Be like: わたしの彼女はDu Junanです. We will go to Hainan for our anniversary. 
+
+Please feel free to take my work as reference to your academic life.
 
 And you may contact me by following ways:
 
