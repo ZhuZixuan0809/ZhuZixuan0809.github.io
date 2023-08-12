@@ -1,7 +1,7 @@
 ---
-title: "Research of Policies and Market Cases Related to The Development of New Energy Storage"
+title: "Research on Policies and Market Cases Related to The Development of New Energy Storage"
 collection: publications
-permalink: /publication/Research of Policies and Market Cases Related to The Development of New Energy Storage
+permalink: /publication/Research on Policies and Market Cases Related to The Development of New Energy Storage
 excerpt: 'Written by Zhu Zixuan and Xu Sicheng'
 date: 2023-08-12
 venue: 'IEEE Conference'
