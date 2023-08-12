@@ -3,7 +3,7 @@ title: "Research on Levelized Cost of Electricity for Lithium Iron Phosphate Bat
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'From 2023-2024 Zhejiang University SRTP'
-date: Not yet
+date: 2023
 venue: 'IEEE Conference'
 paperurl: 'Not yet'
 citation: 'Zixuan, Zhu. (2023). &quot;"Research on Levelized Cost of Electricity for Lithium Iron Phosphate Batteries" &quot; <i>IEEE Conference </i>.'
