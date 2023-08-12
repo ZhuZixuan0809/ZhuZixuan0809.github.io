@@ -1,7 +1,7 @@
 ---
 title: "Research on Levelized Cost of Electricity for Lithium Iron Phosphate Batteries"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/Research on Levelized Cost of Electricity for Lithium Iron Phosphate Batteries
 excerpt: 'From 2023-2024 Zhejiang University SRTP'
 date: 2023-10-01
 venue: 'IEEE Conference'
