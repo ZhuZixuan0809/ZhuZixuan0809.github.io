@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 3"
+title: "Research on Levelized Cost of Electricity for Lithium Iron Phosphate Batteries"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+excerpt: 'From 2023-2024 Zhejiang University SRTP'
+date: Not yet
+venue: 'IEEE Conference'
+paperurl: 'Not yet'
+citation: 'Zixuan, Zhu. (2023). &quot;"Research on Levelized Cost of Electricity for Lithium Iron Phosphate Batteries" &quot; <i>IEEE Conference </i>.'
 ---
-This paper is about the number 3. The number 4 is left for future work.
+This paper is from the Project "新型储能全生命周期成本及投资回报机制的研究"
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[You might download paper here when we're ready]()
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Thank you for visiting!
