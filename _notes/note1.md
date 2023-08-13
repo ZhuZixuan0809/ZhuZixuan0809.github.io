@@ -1,9 +1,9 @@
 ---
-title: "Talk 2 on Relevant Topic in Your Field"
-collection: talks
-type: "Talk"
-permalink: /talks/2014-02-01-talk-2
-venue: "London School of Testing"
-date: 2014-02-01
-location: "London, UK"
+title: "Just backup the basic codes"
+collection: notes
+type: "Notes"
+permalink: /notes/note1
+venue: "Test Test Test"
+date: 2023-08-09
+location: "Hangzhou, China"
 ---
