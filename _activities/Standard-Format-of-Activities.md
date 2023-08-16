@@ -4,7 +4,7 @@ collection: activities
 type: "Activities"
 permalink: /activities/Standard-Format-of-Activities
 venue: "目录"
-date: 2023-08-09
+date: 2002-08-09
 location: "Hangzhou, China"
 ---
 
