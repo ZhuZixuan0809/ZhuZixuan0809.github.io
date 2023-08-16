@@ -2,7 +2,7 @@
 title: "Standard Format of Activities"
 collection: activities
 type: "Activities"
-permalink: /notes/Standard-Format-of-Activities
+permalink: /activities/Standard-Format-of-Activities
 venue: "目录"
 date: 2023-08-09
 location: "Hangzhou, China"
