@@ -5,5 +5,6 @@ title: "Activities and Contests"
 author_profile: true
 ---
 
-{% include base_path %}
-  {% include archive-single.html %}
+{% for post in site.activites reversed %}
+  {% include archive-single-talk.html %}
+{% endfor %}
