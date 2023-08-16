@@ -9,51 +9,52 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+#### 学业
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+1. 2020-2021学年 浙江大学三等奖学金
+2. 2020-2021学年 学业优秀标兵
+3. 2020-2021学年 专业排名 7/147
+4. 2021-2022学年 国家助学金
+5. 2021-2022学年 电气工程学院卧龙助学金
+6. 2021年 入选浙江大学国际组织菁英人才培养计划（GEP）
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+#### 科研及竞赛
+
+1. 2023年 第二届高校电气电子工程创新大赛“基于氮化镓的小型高效光储混合逆变器”，获华东赛区一等奖
+2. 2022年 浙江大学 SRTP项目“基于数据驱动的配电网三相台区户变关系辨识研究” 参加者
+3. 2023年 浙江大学 SRTP项目“新型储能全生命周期成本及投资回报机制的研究”  负责人
+4. 2023年 IEEE会议论文《Research on Levelized Cost of Electricity for Lithium Iron Phosphate Batteries》（基于磷酸铁锂电池平准化发电成本计算模型）论文第6作者（学生三作、本科生一作）
+
+
+#### 对外交流
+
+1. 2023年 浙江大学国际化项目“电气工程学院2022-2023春夏学期Power Electronic Device and Application Techniques”  期末：满分
+
+
+#### 社会实践类
+
+1. 2021年 浙江大学“”赤暖乡情社会实践 校级优秀社会实践
+2. 2022-2023年 浙江大学NSEP项目“关于提升本科生外语能力的方法研究”  负责人 优秀（1/7）结题
+3. 2022年 杭州亚运会候补志愿者
+4. 2021年 浙江大学“三位一体”招生志愿者
+
+
+#### 语言
+
+1. CET-4：584分；CET-6：568分（口语：A）
+ 
+
+#### 学生及社会工作
+
+1. 2022年至今 浙江大学电气工程学院2105团支部书记
+2. 2022-2023学年 优秀团干部
+3. 2020-2021学年 电气2007班副班长
+4. 2021-2022学年 电气2004班班长 优秀团员
+
+
+#### 其他
+
+1. 2020-2021年 浙江大学普通生网球队成员
+2. 2023年至今 “一起学习德智体”微信公众号负责人
+3. 2022年至今 FSD字幕组成员 参与翻译《德凯奥特曼》等影视作品
