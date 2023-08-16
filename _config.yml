@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Zhu Zixuan's Personal Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Zhu Zixuan"
+description              : &description "What you love is your life!"
 url                      : https://zhuzixuan0809.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -187,7 +187,9 @@ collections:
   notes:
     output: true
     permalink: /:collection/:path/
-
+  activities:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -239,6 +241,15 @@ defaults:
   - scope:
       path: ""
       type: notes
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _activities
+  - scope:
+      path: ""
+      type: activities
     values:
       layout: single
       author_profile: true
