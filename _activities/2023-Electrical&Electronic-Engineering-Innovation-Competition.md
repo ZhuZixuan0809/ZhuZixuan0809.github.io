@@ -1,10 +1,10 @@
 ---
 title: "2023 Electrical & Electronic Engineering Innovation Competition"
 collection: activities
-type: "Contest"
+type: "Contests"
 permalink: /activities/2023-Electrical&Electronic-Engineering-Innovation-Competition
+venue: "new-energy-Hardware"
 date: 2023-06-14
-venue:"new-energy-Hardware"
 location: "Hangzhou, China"
 ---
 
