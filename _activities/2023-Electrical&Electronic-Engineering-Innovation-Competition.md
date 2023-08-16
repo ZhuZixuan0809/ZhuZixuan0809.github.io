@@ -13,3 +13,4 @@ Our "GaN-based Small-scale High-efficiency Inverter for Optical Storage" won The
 We independently designed and successfully manufacture a sample of our Inverter.
 
 In our team, **Market Investigation**, **Documentation** and **Component Selection** are my main jobs.
+<img src='/images/'>
