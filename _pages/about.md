@@ -18,6 +18,6 @@ Please feel free to take my work as reference to your academic life.
 
 All in all, you can contact me by following ways:
 
-Email: 2879677718@qq.com / [Wechat](https://github.com/ZhuZixuan0809/ZhuZixuan0809.github.io/images/Wechat_zzx.png)
+Email: 3200103860@zju.edu.cn / [Wechat](https://ZhuZixuan0809.github.io/images/Wechat_zzx.png)
 
 Thank you for your visiting! 
