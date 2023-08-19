@@ -1,5 +1,5 @@
 ---
-title: "Research on Policies and Market Cases Related to The Development of New Energy Storage"
+title: "Investigation on Policies and Market Cases Related to The Development of New Energy Storage"
 collection: publications
 permalink: /publication/Research on Policies and Market Cases Related to The Development of New Energy Storage
 excerpt: 'Written by Zhu Zixuan and Xu Sicheng'
