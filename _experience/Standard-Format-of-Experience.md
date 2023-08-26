@@ -1,8 +1,8 @@
 ---
-title: "Standard Format of Activities"
-collection: activities
-type: "Activities"
-permalink: /activities/Standard-Format-of-Activities
+title: "Standard Format of Experience"
+collection: experience
+type: "Experience"
+permalink: /experience/Standard-Format-of-Experience
 venue: "目录"
 date: 2002-08-09
 location: "Hangzhou, China"
