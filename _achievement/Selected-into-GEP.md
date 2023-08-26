@@ -9,5 +9,5 @@ location: "Hangzhou, China"
 
 I was successfully selected and became a member of GEP of ZJU.
 
-Here you can get some 【information about GEP](http://www.sis.zju.edu.cn/sischinese/2021/0628/c12583a2399613/page.htm). 
+Here you can get some [information about GEP](http://www.sis.zju.edu.cn/sischinese/2021/0628/c12583a2399613/page.htm). 
 
