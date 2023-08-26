@@ -12,6 +12,9 @@ main:
 # - title: "Blog Posts"
 #   url: /year-archive/
 
+  - title: "Experience"  
+    url: /experience/
+    
   - title: "Notes"  
     url: /notes/
 
