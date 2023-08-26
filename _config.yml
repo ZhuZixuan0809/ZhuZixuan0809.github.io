@@ -193,6 +193,9 @@ collections:
   experience:
     output: true
     permalink: /:collection/:path/
+  achievement:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -262,6 +265,15 @@ defaults:
   - scope:
       path: ""
       type: experience
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _achievement
+  - scope:
+      path: ""
+      type: achievement
     values:
       layout: single
       author_profile: true
