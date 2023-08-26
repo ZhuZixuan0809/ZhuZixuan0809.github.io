@@ -14,12 +14,13 @@ main:
 
   - title: "Experience"  
     url: /experience/
+
+  - title: "Activities"
+    url: /activities/
     
   - title: "Notes"  
     url: /notes/
 
-  - title: "Activities"
-    url: /activities/
     
   - title: "CV"
     url: /cv/
