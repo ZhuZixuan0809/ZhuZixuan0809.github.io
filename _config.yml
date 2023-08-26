@@ -190,6 +190,9 @@ collections:
   activities:
     output: true
     permalink: /:collection/:path/
+  experience:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -250,6 +253,15 @@ defaults:
   - scope:
       path: ""
       type: activities
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _experience
+  - scope:
+      path: ""
+      type: experience
     values:
       layout: single
       author_profile: true
