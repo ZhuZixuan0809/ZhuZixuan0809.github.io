@@ -13,9 +13,11 @@ redirect_from:
 My name is **Zhu Zixuan**, a third-year undergraduate student from [College of Electrical Engineering](http://ee.zju.edu.cn/) of [Zhejiang University](https://www.zju.edu.cn/).
 And my supervisor is [Prof.Shi Tingna](https://person.zju.edu.cn/0018202). 
 
-### Hobby
 
-* Diving & Tennis & Billiards
+
+## My Hobby
+
+* Sports: Diving & Tennis & Billiards
 * Tokusatsu (Ultraman/Kamen Rider.etc)
 * Japanese Anime (manga and video games)
 
