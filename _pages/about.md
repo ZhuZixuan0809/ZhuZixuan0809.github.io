@@ -15,14 +15,6 @@ And my supervisor is [Prof.Shi Tingna](https://person.zju.edu.cn/0018202).
 
 
 
-## Hobby
-
-* Sports: Diving & Tennis & Billiards
-* Tokusatsu (Ultraman/Kamen Rider.etc)
-* Japanese Anime (manga and video games)
-
-
-
 ## Education
 
 **2020.09 - 2025.06  College of Electrical Engineering, Zhejiang University, China** (Took a year off for neurosurgery)
@@ -32,6 +24,14 @@ And my supervisor is [Prof.Shi Tingna](https://person.zju.edu.cn/0018202).
 * CET4
 * CET6 (Speaking: A)
 * JLPT N2
+
+
+
+## Hobby
+
+* Sports: Diving & Tennis & Billiards
+* Tokusatsu (Ultraman/Kamen Rider.etc)
+* Japanese Anime (manga and video games)
 
 
 
