@@ -17,7 +17,7 @@ And my supervisor is [Prof.Shi Tingna](https://person.zju.edu.cn/0018202).
 
 ## Education
 
-**2020.09 - 2025.06  College of Electrical Engineering, Zhejiang University, China** (Took a year off for neurosurgery)
+**2020.09 - 2025.06  College of Electrical Engineering, Zhejiang University, China** (Took a year off for a tumor surgery)
 
 **Major: Electrical Engineering & Automation (Bachelor in Engineering)**
 
