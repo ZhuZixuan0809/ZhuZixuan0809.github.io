@@ -13,6 +13,8 @@ redirect_from:
 My name is **Zhu Zixuan**, a third-year undergraduate student from [College of Electrical Engineering](http://ee.zju.edu.cn/) of [Zhejiang University](https://www.zju.edu.cn/).
 And my supervisor is [Prof.Shi Tingna](https://person.zju.edu.cn/0018202). 
 
+## I am looking for an opportunity to participate in a research project, and I'd appreciate it if you'd give me a chance.
+
 
 
 ## Education
