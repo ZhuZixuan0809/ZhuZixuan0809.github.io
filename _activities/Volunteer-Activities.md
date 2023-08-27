@@ -15,5 +15,4 @@ Here you can see all of the volunteer activities I have participated in.
 
 
 * 2021.06.19     Volunteer in [The "Trinity System"](https://zdzsc.zju.edu.cn/2021/0515/c3299a2369962/page.htm) of  Zhejiang University (An enrollment program of ZJU)
-
-<img src='/images/三位一体志愿者小时数.png'>
+  <img src='/images/三位一体志愿者小时数.png'>
