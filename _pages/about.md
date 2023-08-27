@@ -15,7 +15,7 @@ And my supervisor is [Prof.Shi Tingna](https://person.zju.edu.cn/0018202).
 
 
 
-## My Hobby
+## Hobby
 
 * Sports: Diving & Tennis & Billiards
 * Tokusatsu (Ultraman/Kamen Rider.etc)
