@@ -13,6 +13,12 @@ redirect_from:
 My name is **Zhu Zixuan**, a third-year undergraduate student from [College of Electrical Engineering](http://ee.zju.edu.cn/) of [Zhejiang University](https://www.zju.edu.cn/).
 And my supervisor is [Prof.Shi Tingna](https://person.zju.edu.cn/0018202). 
 
+### Hobby
+
+* Diving & Tennis & Billiards
+* Tokusatsu (Ultraman/Kamen Rider.etc)
+* Japanese Anime (manga and video games)
+
 
 
 ## Education
@@ -21,9 +27,9 @@ And my supervisor is [Prof.Shi Tingna](https://person.zju.edu.cn/0018202).
 
 **Major: Electrical Engineering & Automation (Bachelor in Engineering)**
 
-* **CET-4：584**
-* **CET-6：568 (Speaking: A)**
-* **JLPT N2**
+* CET4
+* CET6 (Speaking: A)
+* JLPT N2
 
 
 
@@ -31,9 +37,9 @@ And my supervisor is [Prof.Shi Tingna](https://person.zju.edu.cn/0018202).
 
 you can contact me by following ways:
 
-* Email: 3200103860@zju.edu.cn 
+* **Email: 3200103860@zju.edu.cn** 
 
-* My Personal [Wechat](https://ZhuZixuan0809.github.io/images/Wechat_zzx.png)
+* **My Personal [Wechat](https://ZhuZixuan0809.github.io/images/Wechat_zzx.png)**
 
 
 
