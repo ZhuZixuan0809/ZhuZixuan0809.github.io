@@ -9,5 +9,5 @@ location: "Hangzhou, China"
 
 Here you can see all the academic scholarships I gained during my undergraduate study.
 
-* 2021.06     Gain 3rd class scholarship of Zhejiang University in 2020-2021 term
+* 2021.09     Gain 3rd class scholarship of Zhejiang University in 2020-2021 term
 * Incoming......
