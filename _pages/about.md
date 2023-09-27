@@ -23,28 +23,13 @@ And my supervisor is [Prof.Shi Tingna](https://person.zju.edu.cn/0018202).
 
 **Major: Electrical Engineering & Automation (Bachelor in Engineering)**
 
-* CET4
-* CET6 (Speaking: A)
-* JLPT N2
-
-
-
-## Hobby
-
-* Sports: Diving & Tennis & Billiards
-* Tokusatsu (Ultraman/Kamen Rider.etc)
-* Japanese Anime (manga and video games)
-
-
-
 ## Contact
 
 you can contact me by following ways:
 
 * **Email: 3200103860@zju.edu.cn** 
 
-* **My Personal [Wechat](https://ZhuZixuan0809.github.io/images/Wechat_zzx.png)**
-
+* **My [Personal Wechat](https://ZhuZixuan0809.github.io/images/Wechat_zzx.png)**
 
 
 ## Thank you for your visiting! 
