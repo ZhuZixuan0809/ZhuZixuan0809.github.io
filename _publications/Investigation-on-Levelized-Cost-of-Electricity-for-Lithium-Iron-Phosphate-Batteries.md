@@ -9,4 +9,4 @@ paperurl: 'Not yet'
 citation: 'Zixuan, Zhu. (2023). &quot;Investigation on Levelized Cost of Electricity for Lithium Iron Phosphate Batteries.&quot; <i>CFEEE 2023</i>. CF2345.'
 ---
 
-[CERTIFICATE OF PARTICIPATION](https://ZhuZixuan0809.github.iofiles/CF2345.pdf)
+[CERTIFICATE OF PARTICIPATION](https://ZhuZixuan0809.github.io/files/CF2345.pdf)
