@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Zhu Zixuan's Personal Homepage"
 title_separator          : "-"
 name                     : &name "Zhu Zixuan"
-description              : &description "What you love is your life!"
+description              : &description "じゃ、一生バンドしてくれる"
 url                      : https://zhuzixuan0809.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Zhu Zixuan"
   avatar           : "Touxiang1.png"
-  bio              : "What you love is your life！"
+  bio              : "じゃ、一生バンドしてくれる"
   location         : "Hangzhou, Zhejiang, China"
   employer         :
   pubmed           : 
