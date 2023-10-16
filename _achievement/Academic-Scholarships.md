@@ -9,14 +9,14 @@ location: "Hangzhou, China"
 
 Here you can see all the Academic Scholarships & Individual Awards I gained during my undergraduate study.
 
-#### Academic Scholarships
+## Academic Scholarships
 
 * 2021.09     Gain 3rd class scholarship of Zhejiang University in 2020-2021 term
 * coming soon...
 
 
 
-#### Individual Awards
+## Individual Awards
 
 * 2023-2024
   * coming soon...
