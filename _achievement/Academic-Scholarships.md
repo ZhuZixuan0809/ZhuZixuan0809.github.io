@@ -11,7 +11,9 @@ Here you can see all the Academic Scholarships & Individual Awards I gained duri
 
 ## Academic Scholarships
 
-* 2021.10     Gain 3rd class scholarship of Zhejiang University in 2020-2021 term
+* 2023.10     Gain *National Encouragement Scholarship* in 2022-2023 term (only five students in a term)
+* 2023.10     Gain *3rd Class Scholarship* of Zhejiang University in 2022-2023 term
+* 2021.10     Gain *3rd Class Scholarship* of Zhejiang University in 2020-2021 term
 * coming soon...
 
 
@@ -24,6 +26,5 @@ Here you can see all the Academic Scholarships & Individual Awards I gained duri
   * Model Student of Academic Records
   * Advanced Individual of Social Work
   * Advanced Individual of Academic Progress
-
 * 2020-2021
   * Model Student of Academic Records
