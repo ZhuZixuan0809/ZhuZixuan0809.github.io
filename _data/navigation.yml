@@ -21,11 +21,11 @@ main:
   - title: "Activities"
     url: /activities/
     
-  - title: "Notes"  
-    url: /notes/
+ # - title: "Notes"  
+ #   url: /notes/
     
-  - title: "CV"
-    url: /cv/
+ # - title: "CV"
+ #   url: /cv/
   
 
     
