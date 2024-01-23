@@ -10,11 +10,8 @@ redirect_from:
 
 ## Welcome to My Homepage!
 
-My name is **Zhu Zixuan**, a third-year undergraduate student from [College of Electrical Engineering](http://ee.zju.edu.cn/) of [Zhejiang University](https://www.zju.edu.cn/).
-And my supervisor is [Prof.Shi Tingna](https://person.zju.edu.cn/0018202). 
-
-
-## I'm looking forward to an opportunity to participate in a project, and I'd appreciate it if you'd give me a chance.
+My name is **Zixuan Zhu**, a third-year undergraduate student from [College of Electrical Engineering](http://ee.zju.edu.cn/) of [Zhejiang University](https://www.zju.edu.cn/).
+And my supervisor is [Prof.Tingna Shi](https://person.zju.edu.cn/0018202). 
 
 ## Education
 
@@ -26,9 +23,9 @@ And my supervisor is [Prof.Shi Tingna](https://person.zju.edu.cn/0018202).
 
 you can contact me by following ways:
 
-* **Email: 3200103860@zju.edu.cn** 
+* **Email: ZixuanZhu0433@outlook.com** 
 
-* **My [Personal Wechat](https://ZhuZixuan0809.github.io/images/Wechat_zzx.png)**
+* **[Wechat](https://ZhuZixuan0809.github.io/images/Wechat_zzx.png)**
 
 
 ## Thank you for your visiting! 
