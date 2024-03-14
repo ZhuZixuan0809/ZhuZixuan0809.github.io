@@ -15,7 +15,7 @@ And my supervisor is [Prof.Tingna Shi](https://person.zju.edu.cn/0018202).
 
 ## Education
 
-**2020.09 - 2025.06     College of Electrical Engineering, Zhejiang University, China** (Took a year off for a tumor surgery)
+**2020.09 - 2025.06     College of Electrical Engineering, Zhejiang University, China** (Took a year off for a surgery)
 
 **Major: Electrical Engineering and Automation (Bachelor in Engineering)**
 
@@ -23,7 +23,7 @@ And my supervisor is [Prof.Tingna Shi](https://person.zju.edu.cn/0018202).
 
 you can contact me by following ways:
 
-* **Email: ZixuanZhu0433@outlook.com** 
+* **Email: zx_zhuys@outlook.com** 
 
 * **[Wechat](https://ZhuZixuan0809.github.io/images/Wechat_zzx.png)**
 
