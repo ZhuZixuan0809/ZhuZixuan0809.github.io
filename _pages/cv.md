@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+[**Click here to view PDF version**](https://ZhuZixuan0809.github.io/files/CV_final.pdf)
 
-## 其他
-
-2022年至今 FSD字幕组成员 参与翻译《德凯奥特曼》等影视作品
+## Preview
+<br/><img src='/images/CV_20240413.jpg'>
