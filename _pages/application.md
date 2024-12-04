@@ -61,7 +61,7 @@ update: 2024.12.05
 
 ## 1.4 EIT InnoEnergy
 
-**Program**: Master’s in Smart Electrical Networks and Systems
+**Program**: Master’s in Smart Electrical Networks and Systems (KTH + TU/e)
 
 **Status**: Waiting for final result and scholarship
 
