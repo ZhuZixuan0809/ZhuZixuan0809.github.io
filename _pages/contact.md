@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-
-
 ## Email
 
 * zx_zhuys@outlook.com
@@ -19,7 +17,7 @@ redirect_from:
 
 ## Wechat
 
-Please click here for the code.
+Please [click here](https://ZhuZixuan0809.github.io/images/Wechat_zzx.png) for the code.
 
 
 
