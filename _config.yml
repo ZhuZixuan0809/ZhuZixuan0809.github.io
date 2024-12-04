@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "ZHU Homepage"
 title_separator          : "-"
-name                     : &name "朱子轩 Zixuan ZHU"
+name                     : &name "Zixuan ZHU"
 description              : &description "じゃ、一生バンドしてくれる"
 url                      : https://zhuzixuan0809.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "朱子轩 Zixuan ZHU"
+  name             : "Zixuan ZHU"
   avatar           : "证件照20240413.jpg"
   bio              : "じゃ、一生バンドしてくれる"
   location         : "Hangzhou, China"
