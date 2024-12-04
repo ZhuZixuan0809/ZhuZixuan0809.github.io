@@ -10,40 +10,41 @@ redirect_from:
 {% include base_path %}
 
 
+*This is for the record of my master's application for 2025 fall.*
 
-*This is for the progress of my master's application for 2025 fall.*
+*You can contact through email or Wechat for experience and document sharing.*
 
 update: 2024.12.05
 
-### 1. Japan
+# 1. Japan
 
-#### 1.1 The University of Tokyo
+## 1.1 The University of Tokyo
 
 **Program**: IME Graduate Program Mechanical Engineering
 
 **Status**: Preparing for final oral examination
 
-#### 1.2 Kyoto University
+## 1.2 Kyoto University
 
 **Program**: International Energy Science Course (IESC), Graduate School of Energy Science
 
 **Status**: Waiting for first screening
 
-#### 1.3 Institute of SCIENCE TOKYO
+## 1.3 Institute of SCIENCE TOKYO
 
 **Program**: IGP (C) Electrical and Electronic Engineering
 
 **Status**: No reply
 
-### 2. Europe
+# 2. Europe
 
-#### 1.1 EPFL (Swiss Federal Institute of Technology in Lausanne)
+## 1.1 Swiss Federal Institute of Technology in Lausanne (EPFL)
 
 **Program**: Energy Science and Technology
 
 **Status**: Waiting for final result
 
-#### 1.2 Technical University of Munich
+## 1.2 Technical University of Munich (TUM)
 
 **Program**
 
@@ -52,20 +53,21 @@ update: 2024.12.05
 
 **Status**: Waiting for application
 
-#### 1.3 KTH Royal Institute of Technology
+## 1.3 KTH Royal Institute of Technology
 
 **Program**: Electric Power Engineering (MSc)
 
 **Status**: Waiting for final result and scholarship
 
-#### 1.4 EIT InnoEnergy
+## 1.4 EIT InnoEnergy
 
 **Program**: Master’s in Smart Electrical Networks and Systems
 
 **Status**: Waiting for final result and scholarship
 
-#### 1.5 Aalto University
+## 1.5 Aalto University
 
 **Program**: Automation and Electrical Engineering
 
 **Status**: Waiting for final result and scholarship
+
