@@ -5,7 +5,7 @@ permalink: /publication/Investigation-on-Levelized-Cost-of-Electricity-for-Lithi
 date: 2024-06-24
 location: "Sanya, China"
 ---
-Environmental Science and Engineering
+*Environmental Science and Engineering*
 
 ### Recommended citation:
 
