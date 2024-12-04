@@ -1,5 +1,5 @@
 ---
-title: "Investigation on Policies and Market Cases Related to The Development of New Energy Storage"
+title: "Investigation on Policies and Projects Related to The Development of Novel Energy Storage"
 collection: publications
 permalink: /publication/Investigation on Policies and Projects Related to The Development of Novel Energy Storage
 excerpt: ' '
