@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[**Click here to view PDF version**](https://ZhuZixuan0809.github.io/files/CV_final.pdf)
+[**Click here to view PDF version**](https://ZhuZixuan0809.github.io/files/CV-Zhu-Zixuan.pdf)
 
 ## Preview
 <br/><img src='/images/CV_20240413.jpg'>
