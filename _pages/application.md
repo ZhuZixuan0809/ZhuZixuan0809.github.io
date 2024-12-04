@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-*This is for the record of my master's application for 2025 fall.*
+*This serves as a record of my application for the fall 2025 master’s program.*
 
 *You can contact through email or Wechat for experience and document sharing.*
 
