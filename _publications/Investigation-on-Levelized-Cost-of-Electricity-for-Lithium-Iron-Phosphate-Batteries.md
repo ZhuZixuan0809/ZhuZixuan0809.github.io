@@ -3,7 +3,7 @@ title: "Investigation on Levelized Cost of Electricity for Lithium Iron Phosphat
 collection: publications
 permalink: /publication/Investigation-on-Levelized-Cost-of-Electricity-for-Lithium-Iron-Phosphate-Batteries
 excerpt: '  '
-date: 2024-06
+date: 2024-06-24
 venue: 'Environmental Science and Engineering'
 paperurl: '[Click here](https://www.engineeringvillage.com/app/doc/?docid=cpx_M4a9f846a190fddda3c6M695310178165134)'
 citation: 'H. Wang, Z. Hu, X. Liu, S. Sun, J. Chen, and Z. Zhu, “Investigation on Levelized Cost of Electricity for Lithium Iron Phosphate Batteries,” Environmental Science and Engineering, Vol. 10, pp. 221-234, June, 2024. DOI: 10.1007/978-981-97-0372-2_20.'
