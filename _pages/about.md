@@ -9,7 +9,9 @@ redirect_from:
 ---
 
 
-My name is **Zixuan Zhu**, a final year undergraduate student at [College of Electrical Engineering](http://ee.zju.edu.cn/) of [Zhejiang University](https://www.zju.edu.cn/).
+My name is **Zixuan Zhu**
+
+a final year undergraduate student at [College of Electrical Engineering](http://ee.zju.edu.cn/), [Zhejiang University](https://www.zju.edu.cn/).
 
 ## Education
 
