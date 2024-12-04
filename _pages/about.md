@@ -13,9 +13,13 @@ My name is **Zixuan Zhu**, a final year undergraduate student at [College of Ele
 
 ## Education
 
-**2020.09 - 2025.06     College of Electrical Engineering, Zhejiang University, China**
+**2020.09 - 2025.06**     
 
-**Major: Electrical Engineering and Automation (Bachelor of Engineering)**
+**Zhejiang University**
+
+**Electrical Engineering and Automation** 
+
+*Bachelor of Engineering*
 
 ## Contact me
 
