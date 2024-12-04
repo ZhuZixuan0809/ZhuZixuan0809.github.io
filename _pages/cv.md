@@ -12,4 +12,6 @@ redirect_from:
 [**Click here to view PDF version**](https://ZhuZixuan0809.github.io/files/CV-Zhu-Zixuan.pdf)
 
 ## Preview
-<br/><img src='/images/CV_20240413.jpg'>
+<br/><img src='images/CV-Zhu-Zixuan_page-0001.jpg'>
+
+<br/><img src='images/CV-Zhu-Zixuan_page-0002.jpg'>
