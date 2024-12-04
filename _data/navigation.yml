@@ -12,22 +12,20 @@ main:
 # - title: "Blog Posts"
 #   url: /year-archive/
 
-  - title: "Experience"  
-    url: /experience/
+#  - title: "Experience"  
+ #   url: /experience/
 
-  - title: "Achievement"  
-    url: /achievement/
+#  - title: "Achievement"  
+ #   url: /achievement/
     
-  - title: "Activities"
-    url: /activities/
+#  - title: "Activities"
+ #   url: /activities/
     
  # - title: "Notes"  
  #   url: /notes/
     
   - title: "CV"
     url: /cv/
-  
-
     
 # - title: "Guide"
 #   url: /markdown/
