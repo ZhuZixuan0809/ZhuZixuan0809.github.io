@@ -38,13 +38,13 @@ update: 2024.12.05
 
 # 2. Europe
 
-## 1.1 Swiss Federal Institute of Technology in Lausanne (EPFL)
+## 1.1 Swiss Federal Institute of Technology in Lausanne (EPFL) --- Swiss Confederation
 
 **Program**: Energy Science and Technology
 
 **Status**: Waiting for final result
 
-## 1.2 Technical University of Munich (TUM)
+## 1.2 Technical University of Munich (TUM) --- Federal Republic of Germany
 
 **Program**
 
@@ -53,19 +53,19 @@ update: 2024.12.05
 
 **Status**: Waiting for application
 
-## 1.3 KTH Royal Institute of Technology
+## 1.3 KTH Royal Institute of Technology --- Sweden
 
 **Program**: Electric Power Engineering (MSc)
 
 **Status**: Waiting for final result and scholarship
 
-## 1.4 EIT InnoEnergy
+## 1.4 EIT InnoEnergy+ --- Sweden + The Kingdom of the Netherlands
 
 **Program**: Master’s in Smart Electrical Networks and Systems (KTH + TU/e)
 
 **Status**: Waiting for final result and scholarship
 
-## 1.5 Aalto University
+## 1.5 Aalto University --- The Republic of Finland
 
 **Program**: Automation and Electrical Engineering
 
