@@ -8,16 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-## Welcome to My Homepage!
 
-My name is **Zixuan Zhu**, a third-year undergraduate student from [College of Electrical Engineering](http://ee.zju.edu.cn/) of [Zhejiang University](https://www.zju.edu.cn/).
-And my supervisor is [Prof.Tingna Shi](https://person.zju.edu.cn/0018202). 
+My name is **Zixuan Zhu**, a final year undergraduate student at [College of Electrical Engineering](http://ee.zju.edu.cn/) of [Zhejiang University](https://www.zju.edu.cn/).
 
 ## Education
 
-**2020.09 - 2025.06     College of Electrical Engineering, Zhejiang University, China** (Took a year off for a surgery)
+**2020.09 - 2025.06     College of Electrical Engineering, Zhejiang University, China**
 
-**Major: Electrical Engineering and Automation (Bachelor in Engineering)**
+**Major: Electrical Engineering and Automation (Bachelor of Engineering)**
 
 ## Contact me
 
@@ -27,5 +25,10 @@ you can contact me by following ways:
 
 * **[Wechat](https://ZhuZixuan0809.github.io/images/Wechat_zzx.png)**
 
+## For Students from College of Electrical Engineering, Zhejiang University
+
+If you are a student majoring at Electrical Engineering and Automation,
+
+you are welcome to download files you need in the Wechat Official Account "一起学习德智体"
 
 ## Thank you for your visiting! 
