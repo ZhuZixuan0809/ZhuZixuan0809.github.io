@@ -23,10 +23,13 @@ main:
     
  # - title: "Notes"  
  #   url: /notes/
-    
+
   - title: "CV"
     url: /cv/
-
+    
+  - title: "Contact"
+    url: /contact/
+    
   - title: "Master Application"
     url: /application/
 
