@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Contact me"
+title: "Contact Me"
 permalink: /contact/
 author_profile: true
 redirect_from:
@@ -12,8 +12,7 @@ redirect_from:
 ## Email
 
 * zx_zhuys@outlook.com
-* zxzhuys@gmail.com
-* zx_zhu@zju.edu.cn
+* zx_zhu@zju.edu.cn (for ZJUers)
 
 ## Wechat
 
