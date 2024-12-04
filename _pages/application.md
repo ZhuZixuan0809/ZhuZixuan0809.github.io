@@ -12,7 +12,7 @@ redirect_from:
 
 *This serves as a record of my application for the fall 2025 master’s program.*
 
-*You can contact through email or Wechat for experience and document sharing.*
+*You can contact me through Email or Wechat for experience and document sharing, if you are a student from College of Electrical Engineering, Zhejiang University.*
 
 update: 2024.12.05
 
