@@ -17,4 +17,4 @@ This article is the achievement of two undergraduate students' first encounter w
 
 We attended the 2024 6th International Conference on Power and Energy Technology(ICPET 2024) held during July 12-15, 2024 in Beijing, China(In-person).
 
-You may ask me for the paper through email <zx_zhu@zju.edu.cn>.
+You may contact me for the paper through email.
