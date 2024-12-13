@@ -63,7 +63,11 @@ update: 2024.12.05
 
 **Program**: Master’s in Smart Electrical Networks and Systems (KTH + TU/e)
 
-**Status**: Waiting for final result and scholarship
+**Status**: Admitted without any scholarship.
+
+**Final Result**: I will **NOT** accept this offer.
+
+[click here to view Letter of Acceptance](https://ZhuZixuan0809.github.io/files/SENSE-Conditional-Acceptance-Letter.pdf)
 
 ## 1.5 Aalto University --- The Republic of Finland
 
