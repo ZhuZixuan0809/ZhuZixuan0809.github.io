@@ -14,7 +14,7 @@ redirect_from:
 
 *You can contact me for experience and document sharing, if you are a student from College of Electrical Engineering, Zhejiang University.*
 
-update: 2024.12.05
+Recent Update: 2025.01.01
 
 # 1. Japan
 
@@ -22,7 +22,7 @@ update: 2024.12.05
 
 **Program**: IME Graduate Program Mechanical Engineering
 
-**Status**: Preparing for final oral examination
+**Status**: Waiting for the final result (expected to be announced around 2025.01.20)
 
 ## 1.2 Kyoto University
 
@@ -38,13 +38,13 @@ update: 2024.12.05
 
 # 2. Europe
 
-## 1.1 Swiss Federal Institute of Technology in Lausanne (EPFL) --- Swiss Confederation
+## 1.1 Swiss Federal Institute of Technology in Lausanne (EPFL) --- Swiss
 
 **Program**: Energy Science and Technology
 
 **Status**: Waiting for final result
 
-## 1.2 Technical University of Munich (TUM) --- Federal Republic of Germany
+## 1.2 Technical University of Munich (TUM) --- Germany
 
 **Program**
 
@@ -59,7 +59,7 @@ update: 2024.12.05
 
 **Status**: Waiting for final result and scholarship
 
-## 1.4 EIT InnoEnergy+ --- Sweden + The Kingdom of the Netherlands
+## 1.4 EIT InnoEnergy+ --- Sweden + Netherlands
 
 **Program**: Master’s in Smart Electrical Networks and Systems (KTH + TU/e)
 
@@ -69,9 +69,14 @@ update: 2024.12.05
 
 [click here to view Letter of Acceptance](https://ZhuZixuan0809.github.io/files/SENSE-Conditional-Acceptance-Letter.pdf)
 
-## 1.5 Aalto University --- The Republic of Finland
+## 1.5 Aalto University --- Finland
 
 **Program**: Automation and Electrical Engineering
 
 **Status**: Waiting for final result and scholarship
 
+## 1.6 RWTH Aachen University --- Germany
+
+**Program**: Electrical Engineering and Information Technology (M.Sc.) --- Major: Electrical Power Engineering (EPEN)
+
+**Status**: Waiting for final result
