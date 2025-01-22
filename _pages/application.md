@@ -24,6 +24,8 @@ Recent Update: 2025.01.22
 
 **Status**: Admitted Successfully!!!
 
+[click here to view Admission Certificate](https://ZhuZixuan0809.github.io/files/UTokyo_Admission_Certificate.pdf)
+
 ## 1.2 Kyoto University
 
 **Program**: International Energy Science Course (IESC), Graduate School of Energy Science
