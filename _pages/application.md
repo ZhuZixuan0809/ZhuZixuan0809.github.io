@@ -14,7 +14,7 @@ redirect_from:
 
 *You can contact me for experience and document sharing, if you are a student from College of Electrical Engineering, Zhejiang University.*
 
-Recent Update: 2025.01.01
+Recent Update: 2025.01.22
 
 # 1. Japan
 
@@ -22,13 +22,13 @@ Recent Update: 2025.01.01
 
 **Program**: IME Graduate Program Mechanical Engineering
 
-**Status**: Waiting for the final result (expected to be announced around 2025.01.20)
+**Status**: Admitted Successfully!!!
 
 ## 1.2 Kyoto University
 
 **Program**: International Energy Science Course (IESC), Graduate School of Energy Science
 
-**Status**: Waiting for first screening
+**Status**: Stop Application Process
 
 ## 1.3 Institute of SCIENCE TOKYO
 
@@ -51,7 +51,7 @@ Recent Update: 2025.01.01
 * Power Engineering (M.Sc.)
 * Mechatronics, Robotics and Biomechanical Engineering (M.Sc)
 
-**Status**: Waiting for application
+**Status**: Stop Application Process
 
 ## 1.3 KTH Royal Institute of Technology --- Sweden
 
@@ -79,4 +79,4 @@ Recent Update: 2025.01.01
 
 **Program**: Electrical Engineering and Information Technology (M.Sc.) --- Major: Electrical Power Engineering (EPEN)
 
-**Status**: Waiting for final result
+**Status**: Stop Application Process
