@@ -14,7 +14,7 @@ redirect_from:
 
 *You can contact me for experience and document sharing, if you are a student from College of Electrical Engineering, Zhejiang University.*
 
-Recent Update: 2025.03.26
+Recent Update: 2025.03.27
 
 # 1. Japan
 
@@ -59,7 +59,11 @@ Recent Update: 2025.03.26
 
 **Program**: Electric Power Engineering (MSc)
 
-**Status**: Waiting for final result and scholarship
+**Result**: Admitted with KTH Scholarship!!!
+
+[click here to view Admission Notification](https://ZhuZixuan0809.github.io/images/KTH_EPE_AD.jpg)
+
+[click here to view KTH Scholarship](https://ZhuZixuan0809.github.io/images/KTH_Scholarship.jpg)
 
 ## 1.4 EIT InnoEnergy+ --- Sweden + Netherlands
 
