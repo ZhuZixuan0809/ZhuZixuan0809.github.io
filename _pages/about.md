@@ -11,20 +11,26 @@ redirect_from:
 
 My name is **Zixuan Zhu**
 
-a final year undergraduate student at [College of Electrical Engineering](http://ee.zju.edu.cn/), [Zhejiang University](https://www.zju.edu.cn/).
+# Education
 
-## Education
+## 東京大学 The University of Tokyo
 
-**2020.09 - 2025.06**     
+Tokyo, Japan
 
-**Zhejiang University**
+**2025.10 -**
 
-**Electrical Engineering and Automation** (*Bachelor of Engineering*)
+**M.Eng Mechanical Engineering**
+
+## 浙江大学 Zhejiang University
+
+Hangzhou, China
+
+**2020.09 - 2025.06**    
+
+**B.Eng Electrical Engineering and Automation**
 
 ## Thank you for your visiting! 
 
-### For Students from College of Electrical Engineering, Zhejiang University
+## For Students from College of Electrical Engineering, Zhejiang University
 
 If you are a student majoring at Electrical Engineering and Automation, you are welcome to download files you need in the Wechat Official Account "一起学习德智体".
-
-
