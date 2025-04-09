@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+My name is Zixuan ZHU, a final year undergraduate student of Zhejiang University. I will start my Master's study at The University of Tokyo from 2025.10. 
+
 # Education
 
 ## 東京大学 The University of Tokyo
@@ -27,8 +29,6 @@ Hangzhou, China
 **B.Eng Electrical Engineering and Automation**
 
 ## Thank you for your visiting! 
-
-
 
 ### For Students from College of Electrical Engineering, Zhejiang University
 
