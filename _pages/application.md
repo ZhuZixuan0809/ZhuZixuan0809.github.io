@@ -50,6 +50,8 @@ Recent Update: 2025.04.09
 
 ## 1.2 Technical University of Munich (TUM) --- Germany
 
+[click here to view my APS](https://ZhuZixuan0809.github.io/files/APS_Zixuan_Zhu.pdf)
+
 **Program**
 
 * Power Engineering (M.Sc.)
