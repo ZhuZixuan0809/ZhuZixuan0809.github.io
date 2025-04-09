@@ -8,9 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-
-My name is **Zixuan Zhu**
-
 # Education
 
 ## 東京大学 The University of Tokyo
@@ -31,6 +28,8 @@ Hangzhou, China
 
 ## Thank you for your visiting! 
 
-## For Students from College of Electrical Engineering, Zhejiang University
+
+
+### For Students from College of Electrical Engineering, Zhejiang University
 
 If you are a student majoring at Electrical Engineering and Automation, you are welcome to download files you need in the Wechat Official Account "一起学习德智体".
