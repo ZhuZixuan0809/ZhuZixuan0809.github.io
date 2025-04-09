@@ -14,15 +14,15 @@ redirect_from:
 
 *You can contact me for experience and document sharing, if you are a student from College of Electrical Engineering, Zhejiang University.*
 
-Recent Update: 2025.03.27
+Recent Update: 2025.04.09
 
 # 1. Japan
 
 ## 1.1 The University of Tokyo
 
-**Program**: IME Graduate Program Mechanical Engineering
+**Program**: IME Graduate Program, Mechanical Engineering
 
-**Status**: Admitted Successfully!!!
+**Result**: Admitted Successfully!!!
 
 [click here to view Admission Certificate](https://ZhuZixuan0809.github.io/files/UTokyo_Admission_Certificate.pdf)
 
@@ -36,15 +36,17 @@ Recent Update: 2025.03.27
 
 **Program**: IGP (C) Electrical and Electronic Engineering
 
-**Status**: No reply
+**Result**: No reply
 
 # 2. Europe
 
-## 1.1 Swiss Federal Institute of Technology in Lausanne (EPFL) --- Swiss
+## 1.1 EPFL --- Swiss
 
 **Program**: Energy Science and Technology
 
-**Status**: Waiting for final result
+**Result**: Rej
+
+[click here to view EPFL Answer](https://ZhuZixuan0809.github.io/files/EPFL_answer_Master_Zixuan_Zhu.pdf)
 
 ## 1.2 Technical University of Munich (TUM) --- Germany
 
@@ -59,7 +61,7 @@ Recent Update: 2025.03.27
 
 **Program**: Electric Power Engineering (MSc)
 
-**Result**: Admitted with KTH Scholarship!!!
+**Result**: Admitted with KTH Scholarship.
 
 [click here to view Admission Notification](https://ZhuZixuan0809.github.io/images/KTH_EPE_AD.jpg)
 
@@ -69,9 +71,7 @@ Recent Update: 2025.03.27
 
 **Program**: Master’s in Smart Electrical Networks and Systems (KTH + TU/e)
 
-**Status**: Admitted without any scholarship.
-
-**Final Result**: I will **NOT** accept this offer.
+**Result**: Admitted without any scholarship.
 
 [click here to view Letter of Acceptance](https://ZhuZixuan0809.github.io/files/SENSE-Conditional-Acceptance-Letter.pdf)
 
@@ -79,7 +79,9 @@ Recent Update: 2025.03.27
 
 **Program**: Automation and Electrical Engineering
 
-**Status**: Waiting for final result and scholarship
+**Result**: Admitted without any scholarship.
+
+[click here to view Letter of Admission](https://ZhuZixuan0809.github.io/files/Aalto_Admission_Letter_Zixuan_Zhu.pdf)
 
 ## 1.6 RWTH Aachen University --- Germany
 
