@@ -9,8 +9,8 @@ redirect_from:
 
 ## UTokyo
 
-[IME Homepage](https://www.ime.t.u-tokyo.ac.jp/)
+<a href="https://www.ime.t.u-tokyo.ac.jp/" target="_blank" rel="noopener noreferrer">IME Homepage</a>
 
 ## Entertainment
 
-[Bilibili](https://www.bilibili.com/)
+<a href="https://www.bilibili.com/" target="_blank" rel="noopener noreferrer">Bilibili</a>
