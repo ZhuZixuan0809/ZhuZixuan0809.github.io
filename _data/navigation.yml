@@ -29,9 +29,12 @@ main:
     
   - title: "Contact"
     url: /contact/
+
+  - title: "Link"
+    url: /link/
     
-  - title: "Master Application"
-    url: /application/
+ # - title: "Master Application"
+ #   url: /application/
 
 # - title: "Guide"
 #   url: /markdown/
