@@ -30,7 +30,7 @@ redirect_from:
 ## <span style="font-size:28px;">東京大学</span>
 <div style="display:flex; gap:28px; font-size:28px; margin:24px 0;">
 <a href="https://www.ime.t.u-tokyo.ac.jp/" target="_blank" rel="noopener noreferrer" style="font-size:24px;">IME Homepage</a>
-<a href="https://www2.mech.t.u-tokyo.ac.jp/?lang=ja" target="_blank" rel="noopener noreferrer" style="font-size:24px;">東京大学大学院工学系研究科 機械工学専攻</a>
+<a href="https://www2.mech.t.u-tokyo.ac.jp/?lang=ja" target="_blank" rel="noopener noreferrer" style="font-size:24px;">大学院工学系研究科機械工学専攻</a>
 </div>
 
 ## <span style="font-size:28px;">学术</span>
