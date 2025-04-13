@@ -12,7 +12,7 @@ redirect_from:
   <form action="https://www.bing.com/search" method="get" target="_blank" style="display: flex; align-items: center;">
     <span style="font-size: 24px; font-weight: bold; color: #000000; margin-right: 15px;">Microsoft Bing</span>
     <input type="text" name="q" placeholder="输入关键词搜索..." style="width: 500px; padding: 8px; border: 1px solid #ddd; border-radius: 4px;">
-    <input type="submit" value="搜索" style="padding: 8px 15px; margin-left: 10px; background-color: #0078D4; color: white; border: none; border-radius: 4px; cursor: pointer;">
+    <input type="submit" value="搜索" style="padding: 8px 15px; margin-left: 10px; background-color: #4285F4; color: white; border: none; border-radius: 4px; cursor: pointer;">
   </form>
 </div>
 
@@ -25,22 +25,35 @@ redirect_from:
   </form>
 </div>
 
-## UTokyo
+**<a href="https://epi.iis.u-tokyo.ac.jp/" target="_blank" rel="noopener noreferrer" style="font-size:24px;">Aziz Lab</a>**
 
-<a href="https://www.ime.t.u-tokyo.ac.jp/" target="_blank" rel="noopener noreferrer">IME Homepage</a>
+## <span style="font-size:28px;">東京大学</span>
 
-## Entertainment
+<a href="https://www.ime.t.u-tokyo.ac.jp/" target="_blank" rel="noopener noreferrer" style="font-size:24px;">UTokyo IME Homepage</a>
 
-<a href="https://www.bilibili.com/" target="_blank" rel="noopener noreferrer">Bilibili</a>
+<a href="https://www2.mech.t.u-tokyo.ac.jp/?lang=ja" target="_blank" rel="noopener noreferrer" style="font-size:24px;">東京大学大学院工学系研究科 機械工学専攻</a>
 
-<a href="https://skr.cc/" target="_blank" rel="noopener noreferrer">Sakura Animation</a>
+## <span style="font-size:28px;">学术</span>
 
-## <span style="font-size:28px;">UTokyo</span>
+<a href="https://scholar.google.com/" target="_blank" rel="noopener noreferrer" style="font-size:24px;">Google Scholar</a>
 
-<a href="https://www.ime.t.u-tokyo.ac.jp/" target="_blank" rel="noopener noreferrer" style="font-size:24px;">IME Homepage</a>
+<a href="https://ieeexplore.ieee.org/Xplore/home.jsp" target="_blank" rel="noopener noreferrer" style="font-size:24px;">IEEE Xplore</a>
 
-## <span style="font-size:28px;">Entertainment</span>
+## <span style="font-size:28px;">娱乐</span>
 
 <a href="https://www.bilibili.com/" target="_blank" rel="noopener noreferrer" style="font-size:24px;">Bilibili</a>
 
 <a href="https://skr.cc/" target="_blank" rel="noopener noreferrer" style="font-size:24px;">Sakura Animation</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
