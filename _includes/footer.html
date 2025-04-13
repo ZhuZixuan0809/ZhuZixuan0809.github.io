@@ -19,6 +19,15 @@
     {% endif %}
     <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
   </ul>
+ 
+<!-- 添加Bing搜索栏 -->
+  <div style="margin: 20px 0;">
+    <form action="https://www.bing.com/search" method="get" target="_blank">
+      <input type="text" name="q" placeholder="输入关键词，使用Bing搜索..." style="padding: 8px; width: 200px;">
+      <input type="submit" value="搜索" style="padding: 6px 12px; background: #4CAF50; color: white; border: none;">
+    </form>
+  </div>
+  
 </div>
 
 <div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>, a fork of <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
