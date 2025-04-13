@@ -28,26 +28,26 @@ redirect_from:
 **<a href="https://epi.iis.u-tokyo.ac.jp/" target="_blank" rel="noopener noreferrer" style="font-size:24px;">Aziz Lab</a>**
 
 ## <span style="font-size:28px;">東京大学</span>
-<div style="display:flex; gap:24px; font-size:24px; margin:20px 0;">
-<a href="https://www.ime.t.u-tokyo.ac.jp/" target="_blank" rel="noopener noreferrer" style="font-size:24px;">UTokyo IME Homepage</a>
+<div style="display:flex; gap:28px; font-size:28px; margin:24px 0;">
+<a href="https://www.ime.t.u-tokyo.ac.jp/" target="_blank" rel="noopener noreferrer" style="font-size:24px;">IME Homepage</a>
 <a href="https://www2.mech.t.u-tokyo.ac.jp/?lang=ja" target="_blank" rel="noopener noreferrer" style="font-size:24px;">東京大学大学院工学系研究科 機械工学専攻</a>
 </div>
 
 ## <span style="font-size:28px;">学术</span>
-<div style="display:flex; gap:24px; font-size:24px; margin:20px 0;">
+<div style="display:flex; gap:28px; font-size:28px; margin:24px 0;">
 <a href="https://chat.qwen.ai/" target="_blank" rel="noopener noreferrer" style="font-size:24px;">Qwen AI</a>
 <a href="https://scholar.google.com/" target="_blank" rel="noopener noreferrer" style="font-size:24px;">Google Scholar</a>
 <a href="https://ieeexplore.ieee.org/Xplore/home.jsp" target="_blank" rel="noopener noreferrer" style="font-size:24px;">IEEE Xplore</a>
 </div>
 
 ## <span style="font-size:28px;">娱乐</span>
-<div style="display:flex; gap:24px; font-size:24px; margin:20px 0;">
+<div style="display:flex; gap:28px; font-size:28px; margin:24px 0;">
 <a href="https://www.bilibili.com/" target="_blank" rel="noopener noreferrer" style="font-size:24px;">Bilibili</a>
 <a href="https://skr.cc/" target="_blank" rel="noopener noreferrer" style="font-size:24px;">Sakura Animation</a>
 </div>
 
 ## <span style="font-size:28px;">Email</span>
-<div style="display:flex; gap:24px; font-size:24px; margin:20px 0;">
+<div style="display:flex; gap:28px; font-size:28px; margin:24px 0;">
 <a href="https://mail.google.com/" target="_blank" rel="noopener noreferrer" style="font-size:24px;">Inbox Gmail</a>
 <a href="https://outlook.live.com/mail/0/" target="_blank" rel="noopener noreferrer" style="font-size:24px;">Inbox Outlook</a>
 </div>
