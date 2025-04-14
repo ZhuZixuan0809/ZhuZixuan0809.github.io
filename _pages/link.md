@@ -25,38 +25,33 @@ redirect_from:
   </form>
 </div>
 
-<!-- 链接跳转栏（增强版） -->
-<div align="center" style="margin: 20px 0;">
-  <form id="linkForm" style="display: flex; align-items: center;">
-    <span style="font-size: 28px; font-weight: bold; color: #0078D4; margin-right: 15px;">快速跳转</span>
-    <input type="url" id="linkInput" placeholder="输入完整链接（带http/https）..." 
-           style="width: 500px; padding: 8px; border: 1px solid #ddd; border-radius: 4px; margin-right: 10px;"
-           pattern="https?://.*" required>
-    <input type="submit" value="Go" 
-           style="padding: 8px 20px; background-color: #0078D4; color: white; border: none; border-radius: 4px; cursor: pointer;">
-  </form>
-  <p id="errorMsg" style="color: red; display: none; margin-top: 5px;">请输入有效的URL地址</p>
+<!-- 输入框和按钮 -->
+<div>
+  <input type="text" id="urlInput" placeholder="输入完整链接（包含http://或https://）">
+  <button onclick="openLink()">打开链接</button>
 </div>
 
+<!-- JavaScript逻辑 -->
 <script>
-  document.getElementById('linkForm').addEventListener('submit', function(e) {
-    e.preventDefault();
-    const input = document.getElementById('linkInput');
-    const error = document.getElementById('errorMsg');
-    
-    // 移除浏览器默认验证
-    input.checkValidity();
-    
-    if (input.validity.valid) {
-      const url = input.value.trim();
-      // 强制添加协议（修复localhost等特殊地址问题）
-      const fullUrl = url.startsWith('http') ? url : 'http://' + url;
-      window.open(fullUrl, '_blank').focus();
-      error.style.display = 'none';
-    } else {
-      error.style.display = 'block';
-    }
-  });
+function openLink() {
+  // 获取输入值
+  const url = document.getElementById('urlInput').value.trim();
+  
+  // 简单验证URL格式
+  if (!url) {
+    alert('请输入链接');
+    return;
+  }
+  
+  // 强制添加协议头（防止某些浏览器拦截）
+  let fullUrl = url;
+  if (!url.startsWith('http://') && !url.startsWith('https://')) {
+    fullUrl = 'http://' + url;
+  }
+  
+  // 打开新标签页
+  window.open(fullUrl, '_blank');
+}
 </script>
 
 
