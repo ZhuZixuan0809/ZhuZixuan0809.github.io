@@ -25,28 +25,38 @@ redirect_from:
   </form>
 </div>
 
-<!-- 链接跳转栏 -->
+<!-- 链接跳转栏（增强版） -->
 <div align="center" style="margin: 20px 0;">
   <form id="linkForm" style="display: flex; align-items: center;">
     <span style="font-size: 28px; font-weight: bold; color: #0078D4; margin-right: 15px;">快速跳转</span>
-    <input type="text" id="linkInput" placeholder="输入完整链接..." 
-           style="width: 500px; padding: 8px; border: 1px solid #ddd; border-radius: 4px; margin-right: 10px;">
+    <input type="url" id="linkInput" placeholder="输入完整链接（带http/https）..." 
+           style="width: 500px; padding: 8px; border: 1px solid #ddd; border-radius: 4px; margin-right: 10px;"
+           pattern="https?://.*" required>
     <input type="submit" value="Go" 
            style="padding: 8px 20px; background-color: #0078D4; color: white; border: none; border-radius: 4px; cursor: pointer;">
   </form>
+  <p id="errorMsg" style="color: red; display: none; margin-top: 5px;">请输入有效的URL地址</p>
 </div>
 
 <script>
-  document.getElementById('linkForm').onsubmit = function(e) {
+  document.getElementById('linkForm').addEventListener('submit', function(e) {
     e.preventDefault();
-    const url = document.getElementById('linkInput').value.trim();
-    if (url) {
-      // 自动补全协议头
+    const input = document.getElementById('linkInput');
+    const error = document.getElementById('errorMsg');
+    
+    // 移除浏览器默认验证
+    input.checkValidity();
+    
+    if (input.validity.valid) {
+      const url = input.value.trim();
+      // 强制添加协议（修复localhost等特殊地址问题）
       const fullUrl = url.startsWith('http') ? url : 'http://' + url;
-      window.open(fullUrl, '_blank');
+      window.open(fullUrl, '_blank').focus();
+      error.style.display = 'none';
+    } else {
+      error.style.display = 'block';
     }
-    return false;
-  };
+  });
 </script>
 
 
