@@ -25,36 +25,6 @@ redirect_from:
   </form>
 </div>
 
-<!-- 输入框和按钮 -->
-<div>
-  <input type="text" id="urlInput" placeholder="输入完整链接（包含http://或https://）">
-  <button onclick="openLink()">打开链接</button>
-</div>
-
-<!-- JavaScript逻辑 -->
-<script>
-function openLink() {
-  // 获取输入值
-  const url = document.getElementById('urlInput').value.trim();
-  
-  // 简单验证URL格式
-  if (!url) {
-    alert('请输入链接');
-    return;
-  }
-  
-  // 强制添加协议头（防止某些浏览器拦截）
-  let fullUrl = url;
-  if (!url.startsWith('http://') && !url.startsWith('https://')) {
-    fullUrl = 'http://' + url;
-  }
-  
-  // 打开新标签页
-  window.open(fullUrl, '_blank');
-}
-</script>
-
-
 **<a href="https://epi.iis.u-tokyo.ac.jp/" target="_blank" rel="noopener noreferrer" style="font-size:26px;">Aziz Laboratory</a>**
 
 ## <span style="font-size:28px;">東京大学</span>
