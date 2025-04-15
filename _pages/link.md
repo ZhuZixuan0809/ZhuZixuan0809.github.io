@@ -37,7 +37,9 @@ redirect_from:
 <div style="display:flex; gap:28px; font-size:28px; margin:24px 0;">
   <a href="https://chat.qwen.ai/" target="_blank" rel="noopener noreferrer" style="font-size:24px;">Qwen AI</a>
   <a href="https://chatgpt.com/" target="_blank" rel="noopener noreferrer" style="font-size:24px;">ChatGPT</a>
+  
   <a href="https://libdb.zju.edu.cn/s/lib/libtb/" target="_blank" rel="noopener noreferrer" style="font-size:24px;">浙江大学图书馆数据库</a>
+  <a href="https://github.com/" target="_blank" rel="noopener noreferrer" style="font-size:24px;">GitHub</a>
   <a href="https://scholar.google.com/" target="_blank" rel="noopener noreferrer" style="font-size:24px;">Google Scholar</a>
   <a href="https://ieeexplore.ieee.org/Xplore/home.jsp" target="_blank" rel="noopener noreferrer" style="font-size:24px;">IEEE Xplore</a>
 </div>
