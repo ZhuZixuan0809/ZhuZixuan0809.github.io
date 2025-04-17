@@ -25,9 +25,9 @@ redirect_from:
   </form>
 </div>
 
-**<a href="https://epi.iis.u-tokyo.ac.jp/" target="_blank" rel="noopener noreferrer" style="font-size:26px;">EPI Lab (Aziz Lab)</a>**
+**<a href="https://epi.iis.u-tokyo.ac.jp/" target="_blank" rel="noopener noreferrer" style="font-size:24px;">EPI Lab (Aziz Lab)</a>**
 
-**<a href="https://www.zjuers.com/" target="_blank" rel="noopener noreferrer" style="font-size:26px;">ZJUers 轻首页</a>**
+**<a href="https://www.zjuers.com/" target="_blank" rel="noopener noreferrer" style="font-size:24px;">ZJUers 轻首页</a>**
 
 ## <span style="font-size:28px;">東京大学</span>
 <div style="display:flex; gap:28px; font-size:28px; margin:24px 0;">
