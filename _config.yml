@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "朱子軒 Zixuan ZHU"
+  name             : "朱 子軒"
   avatar           : "证件照20240413.jpg"
-  bio              : "逃げたらひとつ、進んではふたつ"
+  bio              : "逃げたら一つ、進んでは二つ"
   location         : "Hangzhou, China"
   employer         :
   pubmed           : 
@@ -99,7 +99,7 @@ author:
   github           : 
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "zxzhuys"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
