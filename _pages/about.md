@@ -16,21 +16,21 @@ My name is Zixuan ZHU, a final year undergraduate student of Zhejiang University
 
 # Education
 
-## 東京大学 The University of Tokyo
+## The University of Tokyo
 
 *Tokyo, Japan*
 
 **Oct. 2025 - Present**
 
-Master of Engineering *Mechanical Engineering*
+Master of Engineering in *Mechanical Engineering*
 
-## 浙江大学 Zhejiang University
+## Zhejiang University
 
 *Hangzhou, China*
 
 **Sep. 2020 – Jun. 2025**
 
-Bachelor of Engineering *Electrical Engineering and Automation*
+Bachelor of Engineering in *Electrical Engineering and Automation*
 
 ---
 
