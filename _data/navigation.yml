@@ -24,8 +24,8 @@ main:
  # - title: "Notes"  
  #   url: /notes/
 
-  - title: "CV"
-    url: /cv/
+ - title: "CV"
+   url: /files/CV-Zhu-Zixuan.pdf
     
   - title: "Contact"
     url: /contact/
