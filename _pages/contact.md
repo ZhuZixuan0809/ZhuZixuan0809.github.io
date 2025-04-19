@@ -16,7 +16,4 @@ redirect_from:
 
 ## Wechat
 
-Please [click here](https://ZhuZixuan0809.github.io/images/Wechat_zzx.png) for QR code.
-
-
-
+Please [click here](https://ZhuZixuan0809.github.io/images/Wechat_zzx.png) to get the QR code.
