@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "ZHU Homepage"
 title_separator          : "-"
 name                     : &name " Zixuan ZHU"
-description              : &description "じゃ、一生バンドしてくれる"
+description              : &description " "
 url                      : https://zhuzixuan0809.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : " Zixuan ZHU"
+  name             : "朱子軒 Zixuan ZHU"
   avatar           : "证件照20240413.jpg"
-  bio              : "じゃ、一生バンドしてくれる"
+  bio              : "逃げたらひとつ、進んではふたつ"
   location         : "Hangzhou, China"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : 
+  email            : "zx_zhuys@outlook.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
