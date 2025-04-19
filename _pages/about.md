@@ -10,7 +10,7 @@ redirect_from:
 
 My name is Zixuan ZHU, a final year undergraduate student of Zhejiang University. I will start my Master's study at The University of Tokyo from October 2025.
 
-[**Here is my Resume/CV**](https://ZhuZixuan0809.github.io/files/CV-Zhu-Zixuan.pdf)
+<a href="https://ZhuZixuan0809.github.io/files/CV-Zhu-Zixuan.pdf" target="_blank" rel="noopener noreferrer" style="font-size:24px;">Resume/CV</a>
 
 ---
 
